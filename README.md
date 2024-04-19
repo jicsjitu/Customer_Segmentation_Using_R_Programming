@@ -10,6 +10,7 @@ Customer segmentation is a vital strategy that allows businesses to target speci
 The process begins with a thorough data preprocessing stage where data is cleaned and prepared for analysis. This includes handling missing values, normalizing data, and selecting relevant features for segmentation. Following this, clustering algorithms are applied to the processed data to form segments. Each segment is analyzed to identify key characteristics and behaviors that define it.
 
 ![image](https://github.com/jicsjitu/Customer_Segmentation_Using_R_Programming/assets/162569175/9374d89e-ef35-4c63-aa7f-d24629e1f451)
+
 The final part of the project focuses on interpreting these segments to formulate targeted marketing strategies that cater to the specific needs and preferences of each group. Detailed visualizations are created using R's robust graphical capabilities to illustrate the characteristics of customer segments, making the findings accessible and actionable for marketing teams and decision-makers.
 ![image](https://github.com/jicsjitu/Customer_Segmentation_Using_R_Programming/assets/162569175/b4a05608-e6ff-4086-b3a0-a9a3434bf537)
 
